@@ -1,0 +1,28 @@
+{
+  "name": "osxclean",
+  "version": "1.0.0",
+  "description": "macOS X cleaner",
+  "main": "cli.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/raisty/osxclean.git"
+  },
+  "keywords": [
+    "mac",
+    "os",
+    "x",
+    "cleaner"
+  ],
+  "author": "@raisty",
+  "license": "MIT",
+  "bin": {
+    "osxclean": "./cli.sh"
+  },
+  "bugs": {
+    "url": "https://github.com/raisty/osxclean/issues"
+  },
+  "homepage": "https://github.com/raisty/osxclean#readme"
+}
